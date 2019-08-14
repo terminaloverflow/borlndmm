@@ -1,0 +1,7 @@
+*.local
+*.res
+/__astcache/
+/__recovery/
+/__history/
+/Win32/
+/Win64/
