@@ -1,0 +1,16 @@
+EXPORTS
+@Borlndmm@SysGetMem$qqri=_ZN8Borlndmm9SysGetMemEx
+@Borlndmm@SysAllocMem$qqri=_ZN8Borlndmm11SysAllocMemEx
+@Borlndmm@SysFreeMem$qqrpv=_ZN8Borlndmm10SysFreeMemEPv
+@Borlndmm@SysReallocMem$qqrpvi=_ZN8Borlndmm13SysReallocMemEPvx
+@Borlndmm@SysUnregisterExpectedMemoryLeak$qqrpi=_ZN8Borlndmm31SysUnregisterExpectedMemoryLeakEPi
+@Borlndmm@SysRegisterExpectedMemoryLeak$qqrpi=_ZN8Borlndmm29SysRegisterExpectedMemoryLeakEPi
+@Borlndmm@HeapRelease$qqrv=_ZN8Borlndmm11HeapReleaseEv
+@Borlndmm@HeapAddRef$qqrv=_ZN8Borlndmm10HeapAddRefEv
+GetAllocMemSize
+GetAllocMemCount
+GetHeapStatus
+DumpBlocks
+ReallocMemory
+FreeMemory
+GetMemory
